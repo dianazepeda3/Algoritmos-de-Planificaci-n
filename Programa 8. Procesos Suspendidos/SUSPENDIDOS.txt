@@ -1,0 +1,11 @@
+ PROCESOS SUSPENDIDOS
+-------------------------------------
+ID: 1
+Operacion: 380 + 447
+TME: 7
+Tamaño: 24
+-------------------------------------
+ID: 2
+Operacion: 140 + 530
+TME: 14
+Tamaño: 6
